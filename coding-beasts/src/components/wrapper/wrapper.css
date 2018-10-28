@@ -1,0 +1,12 @@
+.wrapper {
+    padding-top: 25px;
+    background-image: url("../../../public/images/VSCode.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+}

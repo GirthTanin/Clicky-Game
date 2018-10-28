@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "url": "../public/images/AndrewW.png",
+        "name": "AW",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "url": "../public/images/AngelaA.png",
+        "name": "AA",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "url": "../public/images/AnhL.png",
+        "name": "AL",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "url": "../public/images/AviV.png",
+        "name": "AV",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "url": "../public/images/BernardA.png",
+        "name": "BA",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "url": "../public/images/ConnorM.png",
+        "name": "CM",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "url": "../public/images/DanG.png",
+        "name": "DG",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "url": "../public/images/DanH.png",
+        "name": "DH",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "url": "../public/images/DeanT.png",
+        "name": "DT",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "url": "../public/images/EdB.png",
+        "name": "EB",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "url": "../public/images/EnsarmuS.png",
+        "name": "ES",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "url": "../public/images/ErikA.png",
+        "name": "EA",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "url": "../public/images/GuillermosB.png",
+        "name": "GB",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "url": "../public/images/JonM.png",
+        "name": "JM",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "url": "../public/images/JonP.png",
+        "name": "JP",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "url": "../public/images/JoshdL.png",
+        "name": "JL",
+        "clicked": false
+    },
+    {
+        "id": 17,
+        "url": "../public/images/KyleC.png",
+        "name": "KC",
+        "clicked": false
+    },
+    {
+        "id": 18,
+        "url": "../public/images/MichaelaW.png",
+        "name": "MW",
+        "clicked": false
+    },
+    {
+        "id": 19,
+        "url": "../public/images/NickP.png",
+        "name": "NP",
+        "clicked": false
+    },
+    {
+        "id": 20,
+        "url": "../public/images/PeterL.png",
+        "name": "PL",
+        "clicked": false
+    },
+    {
+        "id": 21,
+        "url": "../public/images/RobR.png",
+        "name": "RR",
+        "clicked": false
+    },  
+    {
+        "id": 22,
+        "url": "../public/images/VitaliiK.png",
+        "name": "VK",
+        "clicked": false
+    }
+
+]
